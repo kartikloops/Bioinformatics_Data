@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Welcome to Discourse",
+        "relative_link": "/t/welcome-to-discourse/7",
+        "post_id": "7",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Docker tool not found but is present in the system",
+        "relative_link": "/t/docker-tool-not-found-but-is-present-in-the-system/969",
+        "post_id": "969",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Grouping outputs into separate directories",
+        "relative_link": "/t/grouping-outputs-into-separate-directories/965",
+        "post_id": "965",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Loading missing://",
+        "relative_link": "/t/loading-missing/964",
+        "post_id": "964",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Use inline javascript when specifying input string",
+        "relative_link": "/t/use-inline-javascript-when-specifying-input-string/963",
+        "post_id": "963",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "“Singularity exec” vs “docker run”",
+        "relative_link": "/t/singularity-exec-vs-docker-run/956",
+        "post_id": "956",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "How to gather output files from subdirectories",
+        "relative_link": "/t/how-to-gather-output-files-from-subdirectories/958",
+        "post_id": "958",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "How to run a bash command within a tool?",
+        "relative_link": "/t/how-to-run-a-bash-command-within-a-tool/952",
+        "post_id": "952",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "How to use arrays as input",
+        "relative_link": "/t/how-to-use-arrays-as-input/954",
+        "post_id": "954",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Using a local Dockerfile based on renv.lock",
+        "relative_link": "/t/using-a-local-dockerfile-based-on-renv-lock/941",
+        "post_id": "941",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Volunteers sought to help plan the 2025 CWL Conference!",
+        "relative_link": "/t/volunteers-sought-to-help-plan-the-2025-cwl-conference/949",
+        "post_id": "949",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Cwltool/provenance worfklow.cwl#main vs workflow.cwl",
+        "relative_link": "/t/cwltool-provenance-worfklow-cwl-main-vs-workflow-cwl/948",
+        "post_id": "948",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "ExpressionTools loadContents how to load from array",
+        "relative_link": "/t/expressiontools-loadcontents-how-to-load-from-array/947",
+        "post_id": "947",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "How to use the Docker installed libraries in a cwl workflow?",
+        "relative_link": "/t/how-to-use-the-docker-installed-libraries-in-a-cwl-workflow/944",
+        "post_id": "944",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Workflow fails when run without –cachedir",
+        "relative_link": "/t/workflow-fails-when-run-without-cachedir/942",
+        "post_id": "942",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Using a workflow input in a step`s valueFrom",
+        "relative_link": "/t/using-a-workflow-input-in-a-step-s-valuefrom/940",
+        "post_id": "940",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Graphical User Interface like Rabix Composer",
+        "relative_link": "/t/graphical-user-interface-like-rabix-composer/934",
+        "post_id": "934",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Collect input files by name from directories",
+        "relative_link": "/t/collect-input-files-by-name-from-directories/932",
+        "post_id": "932",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": ".cwl workflow find file in subdirectories of an input directory",
+        "relative_link": "/t/cwl-workflow-find-file-in-subdirectories-of-an-input-directory/191",
+        "post_id": "191",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "How to get input name from a tool parsed using `cwl_utils.parser.load_document_by_uri`",
+        "relative_link": "/t/how-to-get-input-name-from-a-tool-parsed-using-cwl-utils-parser-load-document-by-uri/922",
+        "post_id": "922",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Cwltool uses docker –mounts",
+        "relative_link": "/t/cwltool-uses-docker-mounts/929",
+        "post_id": "929",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Exploring Job Opportunities in Bioinformatics and CWL Development",
+        "relative_link": "/t/exploring-job-opportunities-in-bioinformatics-and-cwl-development/923",
+        "post_id": "923",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "CWL - specifying Directory outputs as an input",
+        "relative_link": "/t/cwl-specifying-directory-outputs-as-an-input/107",
+        "post_id": "107",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "How to have configure secondaryFiles to recognize two different patterns for the same file",
+        "relative_link": "/t/how-to-have-configure-secondaryfiles-to-recognize-two-different-patterns-for-the-same-file/729",
+        "post_id": "729",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Example CWL FastAPI execution in Python",
+        "relative_link": "/t/example-cwl-fastapi-execution-in-python/919",
+        "post_id": "919",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "CWL Working Groups",
+        "relative_link": "/t/cwl-working-groups/912",
+        "post_id": "912",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Invited Keynote: The Pegasus Workflow Management System: Current Applications and Future Directions",
+        "relative_link": "/t/invited-keynote-the-pegasus-workflow-management-system-current-applications-and-future-directions/915",
+        "post_id": "915",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "Renku: a platform for sustainable data science",
+        "relative_link": "/t/renku-a-platform-for-sustainable-data-science/888",
+        "post_id": "888",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "CPU allocation from Slurm",
+        "relative_link": "/t/cpu-allocation-from-slurm/910",
+        "post_id": "910",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    },
+    {
+        "title": "NGS360 - A NGS Data Management and Analysis Platform",
+        "relative_link": "/t/ngs360-a-ngs-data-management-and-analysis-platform/893",
+        "post_id": "893",
+        "replies": null,
+        "created_date": "Oct 2, 2023 1:44 am",
+        "latest_date": "Oct 2, 2023 9:16 am"
+    }
+]
